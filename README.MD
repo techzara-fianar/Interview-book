@@ -1,4 +1,4 @@
-Hello everyone ;).
+Hello everyone 👋.
 
 These are the books proposed by *Luco Ramaromanana* when sharing on `ROADMAP POUR DEVENIR PROGRAMMEUR DANS LES STUDIOS DE JEUX AAA`, to prepare for being hired.
 
