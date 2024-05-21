@@ -1,4 +1,4 @@
-Hello, it's AmigosKazz ;)
+Hello everyone ;).
 
 These are the books proposed by *Luco Ramaromanana* when sharing on `ROADMAP POUR DEVENIR PROGRAMMEUR DANS LES STUDIOS DE JEUX AAA`, to prepare for being hired.
 
@@ -24,4 +24,6 @@ These are the books proposed by *Luco Ramaromanana* when sharing on `ROADMAP POU
 ##### How to download the books :
 Download the books in the *<a href= "/books">books</a>* folder
 
-*By AmigosKazz*
+<br>
+
+*By TechZara Fianarantsoa*
